@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Export/Export.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/LangToEcore.build/LangToEcore.build.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/LangToEcore/LangToEcore.msd" folder="" />
     </projectModules>
