@@ -3964,7 +3964,23 @@
             <node concept="liA8E" id="4bHRYgrfYop" role="2OqNvi">
               <ref role="37wK5l" to="guwi:~StringWriter.write(java.lang.String)" resolve="write" />
               <node concept="Xl_RD" id="4bHRYgrfYQf" role="37wK5m">
-                <property role="Xl_RC" value="hide members\n" />
+                <property role="Xl_RC" value="hide empty fields\n" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbF" id="4bHRYgrlUvI" role="3cqZAp">
+          <node concept="2OqwBi" id="4bHRYgrlUvK" role="3clFbG">
+            <node concept="2OqwBi" id="4bHRYgrlUvL" role="2Oq$k0">
+              <node concept="Xjq3P" id="4bHRYgrlUvM" role="2Oq$k0" />
+              <node concept="2OwXpG" id="4bHRYgrlUvN" role="2OqNvi">
+                <ref role="2Oxat5" node="4bHRYgqUnQR" resolve="out" />
+              </node>
+            </node>
+            <node concept="liA8E" id="4bHRYgrlUvO" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~StringWriter.write(java.lang.String)" resolve="write" />
+              <node concept="Xl_RD" id="4bHRYgrlUvP" role="37wK5m">
+                <property role="Xl_RC" value="hide methods\n" />
               </node>
             </node>
           </node>
