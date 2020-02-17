@@ -410,7 +410,7 @@
   <node concept="2DaZZR" id="4g5Ebrf198K" />
   <node concept="sE7Ow" id="4g5Ebrf19Cr">
     <property role="TrG5h" value="ExportLangToEcore" />
-    <property role="2uzpH1" value="Export MPS Language to Ecore Model" />
+    <property role="2uzpH1" value="Export Structure to Ecore Model" />
     <node concept="2S4$dB" id="5BfOSIzemZ2" role="1NuT2Z">
       <property role="TrG5h" value="structure" />
       <node concept="3Tm6S6" id="5BfOSIzemZ3" role="1B3o_S" />
@@ -6573,7 +6573,7 @@
   </node>
   <node concept="sE7Ow" id="4bHRYgqUIMY">
     <property role="TrG5h" value="ExportLangToPlantUML" />
-    <property role="2uzpH1" value="Export MPS Language as PlantUML Diagram" />
+    <property role="2uzpH1" value="Export Structure as PlantUML Diagram" />
     <node concept="2S4$dB" id="4bHRYgqUIMZ" role="1NuT2Z">
       <property role="TrG5h" value="structure" />
       <node concept="3Tm6S6" id="4bHRYgqUIN0" role="1B3o_S" />
