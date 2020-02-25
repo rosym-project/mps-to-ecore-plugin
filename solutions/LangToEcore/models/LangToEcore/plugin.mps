@@ -5722,6 +5722,39 @@
     <node concept="3clFb_" id="4bHRYgqUr60" role="jymVt">
       <property role="TrG5h" value="renderConcept" />
       <node concept="3clFbS" id="4bHRYgqUr63" role="3clF47">
+        <node concept="3clFbJ" id="6elPPFNAaDY" role="3cqZAp">
+          <node concept="3clFbS" id="6elPPFNAaE0" role="3clFbx">
+            <node concept="3clFbF" id="6elPPFNAdrZ" role="3cqZAp">
+              <node concept="2OqwBi" id="6elPPFNAe0j" role="3clFbG">
+                <node concept="2OqwBi" id="6elPPFNAdzq" role="2Oq$k0">
+                  <node concept="Xjq3P" id="6elPPFNAdrX" role="2Oq$k0" />
+                  <node concept="2OwXpG" id="6elPPFNAdI$" role="2OqNvi">
+                    <ref role="2Oxat5" node="4bHRYgqUnQR" resolve="out" />
+                  </node>
+                </node>
+                <node concept="liA8E" id="6elPPFNAeoq" role="2OqNvi">
+                  <ref role="37wK5l" to="guwi:~StringWriter.write(java.lang.String)" resolve="write" />
+                  <node concept="Xl_RD" id="6elPPFNAf0B" role="37wK5m">
+                    <property role="Xl_RC" value="abstract " />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="2OqwBi" id="6elPPFNAcDy" role="3clFbw">
+            <node concept="2OqwBi" id="6elPPFNAbAW" role="2Oq$k0">
+              <node concept="37vLTw" id="6elPPFNAbjZ" role="2Oq$k0">
+                <ref role="3cqZAo" node="4bHRYgqUtQX" resolve="concept" />
+              </node>
+              <node concept="2OwXpG" id="6elPPFNAcmL" role="2OqNvi">
+                <ref role="2Oxat5" node="1Tq8ywkwbFS" resolve="node" />
+              </node>
+            </node>
+            <node concept="liA8E" id="6elPPFNAdmY" role="2OqNvi">
+              <ref role="37wK5l" to="c17a:~SAbstractConcept.isAbstract()" resolve="isAbstract" />
+            </node>
+          </node>
+        </node>
         <node concept="3clFbF" id="4bHRYgqWJFi" role="3cqZAp">
           <node concept="2OqwBi" id="4bHRYgqWKE5" role="3clFbG">
             <node concept="2OqwBi" id="4bHRYgqWJUt" role="2Oq$k0">
@@ -5752,10 +5785,10 @@
                   </node>
                 </node>
                 <node concept="Xl_RD" id="4bHRYgqWOOo" role="3K4E3e">
-                  <property role="Xl_RC" value="Interface" />
+                  <property role="Xl_RC" value="interface" />
                 </node>
                 <node concept="Xl_RD" id="4bHRYgqWP7a" role="3K4GZi">
-                  <property role="Xl_RC" value="Class" />
+                  <property role="Xl_RC" value="class" />
                 </node>
               </node>
             </node>
